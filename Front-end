@@ -1,1 +1,14 @@
+A Full Stack Application Project.
 
+Created Front-End Programming UI for the Online Exam System Application which is used for two users - Instructor and Student.
+The Instructor creates an exam.
+Instructor can make upi new questions and select those questions to make up an exam.
+Student logs in with their credentials and take the exam and submits it.
+The Grading is done by the middle-end through the inbuilt Python compiler, Anaconda.
+The Intructor can view the students score and can modify the grades accordingly.
+Student can log-in again and can view their scores.
+
+We have used json and communicated through the HTTP Protocols.
+Backend uses phpMyadmin .
+Languages used in frontend - PHP, Javascript, HTML, CSS.
+No Frameworks used.
